@@ -7,11 +7,7 @@
  */  
 package com.tf.ftpserver.model;
 
-import java.util.Date;
-
-import org.springframework.format.annotation.DateTimeFormat;
-
-/** 
+/**
  * <pre>项目名称：ftpserver    
  * 类名称：VIP    
  * 类描述：    
@@ -44,5 +40,5 @@ public class VIP {
 	public void setVipdate(String vipdate) {
 		this.vipdate = vipdate;
 	}
-	
+	//把这个文件提交到一个叫branch1的分支上
 }
